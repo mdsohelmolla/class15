@@ -5,7 +5,7 @@
 .clear::after{
     content: "";
     clear: both;
-    display: inline-block;
+    display: block;
 }
 .fixtwidth{
 width: 1000px;
